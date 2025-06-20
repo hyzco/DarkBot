@@ -1,0 +1,5 @@
+[2025/06/21 00:14:33.058 | db.Bot.main(Bot.java:70)] Starting DarkBot 1.131.6 b3
+[2025/06/21 00:14:33.378 | db.utils.CaptchaAPI.createInstance(CaptchaAPI.java:20)] Library file lib\captchasolver.jar not present
+[2025/06/21 00:14:33.378 | db.utils.CaptchaAPI.createInstance(CaptchaAPI.java:22)] No captcha resolver is configured, if you're not trying to use one you can safely ignore this message
+[2025/06/21 00:14:51.250 | db.core.manager.SettingsManager.tick(SettingsManager.java:69)] Game is using: DirectX9 | force2d: 1
+[2025/06/21 00:14:54.533 | db.core.objects.facades.LogMediator.onLogMessage(LogMediator.java:41)] INTEX sistemine hoş geldin

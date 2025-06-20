@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HakPlugin" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="DarkBot.main" />
+        <module name="DarkBot.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="captchasolver" target="11" />
+      <module name="captchasolver.main" target="11" />
+      <module name="captchasolver.test" target="11" />
+      <module name="DefaultPlugin" target="1.8" />
+      <module name="eu.darkbot.verifier.captchasolver.main" target="11" />
+      <module name="eu.darkbot.verifier.captchasolver.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DarkBot" options="-Xlint:-processing" />
+      <module name="DarkBot.main" options="-Xlint:-processing" />
+      <module name="DarkBot.test" options="-Xlint:-processing" />
+      <module name="captchasolver" options="-Xlint:-processing" />
+      <module name="darkbot-common" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-api" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-api.main" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-api.test" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-impl" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-impl.main" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-impl.test" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-shared" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-shared.main" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-shared.test" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-util" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-util.main" options="-Xlint:-processing" />
+      <module name="darkbot-common.darkbot-util.test" options="-Xlint:-processing" />
+      <module name="darkbot-common.main" options="-Xlint:-processing" />
+      <module name="darkbot-common.test" options="-Xlint:-processing" />
+      <module name="eu.darkbot.verifier.captchasolver.main" options="-Xlint:-processing" />
+      <module name="eu.darkbot.verifier.captchasolver.test" options="-Xlint:-processing" />
+      <module name="verifier" options="-Xlint:-processing" />
+      <module name="verifier.main" options="-Xlint:-processing" />
+      <module name="verifier.test" options="-Xlint:-processing" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DO.iml" filepath="$PROJECT_DIR$/.idea/DO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DarkBot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DarkBot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DarkBot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DarkBot.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/captchasolver.iml" filepath="$PROJECT_DIR$/.idea/modules/captchasolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/darkbot-common.darkbot-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/darkbot-common.darkbot-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/darkbot-common.darkbot-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/darkbot-common.darkbot-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/impl/darkbot-common.darkbot-impl.main.iml" filepath="$PROJECT_DIR$/.idea/modules/impl/darkbot-common.darkbot-impl.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/impl/darkbot-common.darkbot-impl.test.iml" filepath="$PROJECT_DIR$/.idea/modules/impl/darkbot-common.darkbot-impl.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/darkbot-common.darkbot-shared.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/darkbot-common.darkbot-shared.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/darkbot-common.darkbot-util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/darkbot-common.darkbot-util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/darkbot-common.darkbot-util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/darkbot-common.darkbot-util.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/verifier.main.iml" filepath="$PROJECT_DIR$/.idea/modules/verifier.main.iml" />
+    </modules>
+  </component>
+</project>

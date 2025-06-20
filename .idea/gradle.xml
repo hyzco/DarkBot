@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/DarkBot" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/DarkBot" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/DarkBotAPI" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/DarkBotAPI" />
+            <option value="$PROJECT_DIR$/DarkBotAPI/api" />
+            <option value="$PROJECT_DIR$/DarkBotAPI/impl" />
+            <option value="$PROJECT_DIR$/DarkBotAPI/shared" />
+            <option value="$PROJECT_DIR$/DarkBotAPI/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/verifier" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/verifier" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

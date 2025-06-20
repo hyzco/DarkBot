@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="darkbot-api-0.9.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/darkbot/darkbot-api/0.9.8/darkbot-api-0.9.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

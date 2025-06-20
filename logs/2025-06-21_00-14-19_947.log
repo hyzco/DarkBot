@@ -1,0 +1,7 @@
+[2025/06/21 00:14:21.163 | db.Bot.main(Bot.java:70)] Starting DarkBot 1.131.6 b3
+[2025/06/21 00:14:21.479 | db.utils.CaptchaAPI.createInstance(CaptchaAPI.java:20)] Library file lib\captchasolver.jar not present
+[2025/06/21 00:14:21.479 | db.utils.CaptchaAPI.createInstance(CaptchaAPI.java:22)] No captcha resolver is configured, if you're not trying to use one you can safely ignore this message
+[2025/06/21 00:14:26.846 | db.utils.login.LoginUtils.performUserLogin(LoginUtils.java:55)] Closed login panel, exited without logging in
+java.lang.Throwable: DarkBot shutdown peacefully!
+	at com.github.manolo8.darkbot.Bot.lambda$main$0(Bot.java:73)
+	at java.base/java.lang.Thread.run(Thread.java:834)
